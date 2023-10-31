@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "207716164192",
+    "project_id": "bloodbankbyirfan0",
+    "storage_bucket": "bloodbankbyirfan0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207716164192:android:6c16638c3b942e4cf69905",
+        "android_client_info": {
+          "package_name": "com.irfan06.bloodbankbyvinayak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207716164192-sq4vilt0nlkvcd0va8h71bf9h8l72re4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa8EtdzZTSI_1x6iPgmqBfL8LtCVLd6wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207716164192-sq4vilt0nlkvcd0va8h71bf9h8l72re4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207716164192:android:5e2f0110dea09bfaf69905",
+        "android_client_info": {
+          "package_name": "com.vinayak09.bloodbankbyvinayak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207716164192-sq4vilt0nlkvcd0va8h71bf9h8l72re4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa8EtdzZTSI_1x6iPgmqBfL8LtCVLd6wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207716164192-sq4vilt0nlkvcd0va8h71bf9h8l72re4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
